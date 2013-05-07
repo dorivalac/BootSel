@@ -1,0 +1,60 @@
+README xboot - Autun/2003 by Dorival A. Cardozo dorivalac@ig.com.br
+------------------------------------------------------------------------
+Version 1.2
+-----------
+
+   The xboot software manager the boot of yur pc-x86-intell based
+   microprocessor, when it boot by the unit wich have the xboot software.
+
+   And after, appears the options, you may choose boot using the default unit
+   or boot using Hard Disk.
+   ENTER = Default Unit
+   SPACE = Hard Disk Unit
+
+
+   How to Use it
+   -------------
+   1) Move the original content of first sector to last sector
+
+   Ex:
+   debug
+   -l100 0 0 1
+   -w100 0 b3f 1
+
+   2) Move the xboot program for the first
+   ex:
+   debug xboot.bin (or xboot.com)
+   -w100 0 0 1
+
+   3) That's all there..., yor unit (floppy or cd or har disk) is ready for
+   working. Make boot and anjoy !
+
+
+   New Features from 1.0 verstion to 1.2
+   -------------------------------------
+   On 1.2 version you have te time count, after 40 (.) the the boot from
+   Hard disk is automaticaly selected.
+   The wait from keyboard is the same (enter or space bar).
+   This version have too the show of the ascii (.).
+
+
+   Language
+   --------
+   The language of source code is the Assemly intel x86, compatible with
+   i386 commands, it may run at at 386 or later.
+
+
+   sorry for the bad english ! :)
+  
+
+
+-------------------------------------------------   
+Support, Suggestions and Add to Developer Group,
+send an email to dorivalac@ig.com.br
+(english,portuguese or spanish)
+-------------------------------------------------
+xboot.sourceforge.net
+
+Dorival A. Cardozo
+Limeira,SP,Brazil
+
