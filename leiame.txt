@@ -1,3 +1,0 @@
-Este programa é gratuito, utiliza Licensa
-BSD e pode ser inegrado dentro de seu projeto comercial.
-
