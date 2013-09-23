@@ -6,6 +6,9 @@ It´s fix at 0 Track ( Track 0, Side 0, Sector 0).
 
 You can choose the OS to make Boot (Linux, Windows, Mac, FreeBSD or other).
 
+
+Any Question( dorivalac@hotmail.com  - Skype: dorivalac )
+
 --------------------------------------------------------------
 (Portuguese)
 
