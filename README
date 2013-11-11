@@ -5,6 +5,8 @@ Version 1.2
 
    The xboot software manager the boot of yur pc-x86-intell based
    microprocessor, when it boot by the unit wich have the xboot software.
+   
+   It's Like LILO and GRUB, and can help you to self problem with boot selector.
 
    And after, appears the options, you may choose boot using the default unit
    or boot using Hard Disk.
